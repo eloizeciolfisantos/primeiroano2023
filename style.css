@@ -15,7 +15,7 @@ body {
     }
 
     .logo {
-     width: 200px;
+     width: 300px;
      height: 200px;
      margin: 2px; /*insere um espaçamento externo ao elemento, ao redor da borda*/
      padding: 2px /*define uma distância interna entre um elemento a sua borda*/
@@ -29,4 +29,5 @@ body {
      padding: 3px;
      border: 0.5rem solid #rgb(153, 63, 155);
      border:- radius:24px;
+}
 
