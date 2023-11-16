@@ -1,9 +1,9 @@
 body {
-     background-image: linear-gradient#FFF
+     background-image: linear-gradient#ffffff, #
 }
 
     h1{
-    color:darkblue;
+    color:rgb(91, 91, 167);
     font-size:50px;
     text-align:center;
     }
