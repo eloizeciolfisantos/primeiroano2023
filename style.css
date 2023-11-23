@@ -1,12 +1,12 @@
 body {
      font-family: sans-serif;
-     background-image: linear-gradient (black, blue);
+     background-image: "linear-gradient"
 }
 
 header {
      background-color: #000000;
      border-bottom:2px darkgray;
-
+}
      
      
     h1{
