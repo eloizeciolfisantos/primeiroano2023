@@ -4,8 +4,8 @@ body {
 }
 
 header {
-     background-color: plum;
-     border-bottom:2px solid green;
+     background-color: #000000;
+     border-bottom:2px darkgray;
      
     h1{
     color:rgb(91, 91, 167);
