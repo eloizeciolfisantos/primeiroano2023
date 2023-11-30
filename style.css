@@ -1,6 +1,6 @@
 body {
      font-family: sans-serif;
-     background-image: linear-gradient(#ca6969)
+     background-image: linear-gradient(#845db8)
 }
 
 header {
@@ -45,7 +45,8 @@ header {
 
 .lista{primeiroano2023
      font-size: 20px;
-     color:rgb(197, 124, 178)
+}
+     color:rgb(197, 124, 178);
      list-style: none;
 }
 
