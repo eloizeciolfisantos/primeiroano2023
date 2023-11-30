@@ -4,12 +4,16 @@ body {
 }
 
 header {
-     background-color:rgb(165, 151, 180)
+     background-color:rgb(148, 113, 185)
      border-bottom:2px solid:orangered
      padding:50px;
 }
      
-     
+ .cabecalho {
+ display: flex;
+ justify-content: space-around;
+
+}    
     h1{
     color:rgb(178, 75, 182));
     font-size:50px;
@@ -39,7 +43,7 @@ header {
      border:- radius:24px;primeiroano2023
 }
 
-.lista{
+.lista{primeiroano2023
      font-size: 20px;
      color:rgb(197, 124, 178)
      list-style: none;
