@@ -1,6 +1,6 @@
 body {
      font-family: sans-serif;
-     background-image: linear-gradient(#845db8);
+     background-image: linear-gradient(#b85db1);
 }
 
 header {
@@ -21,7 +21,7 @@ header {
 }
 
     p{ 
-    color:rgb(146, 96, 142);
+    color:rgb(59, 28, 57);
     font-size:35px;
     text-align:justify;
     }
