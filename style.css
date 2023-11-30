@@ -6,6 +6,7 @@ body {
 header {
      background-color: #000000;
      border-bottom: darksalmon;
+     padding:50px;
 }
      
      
@@ -38,3 +39,8 @@ header {
      border:- radius:24px;
 }
 
+.lista{
+     font-size: 20px;
+     color:floralwhite
+     list-style: none;
+}
