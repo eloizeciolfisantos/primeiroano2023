@@ -43,4 +43,8 @@ header {
      font-size: 20px;
      color:rgb(197, 124, 178)
      list-style: none;
-}primeiroano2023
+}
+
+.item-lista{
+     display: inline-block;
+     justify-content: spare-around;
