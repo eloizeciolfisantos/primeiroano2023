@@ -4,7 +4,7 @@ body {
 }
 
 header {
-     background-color:rgb(71, 216, 136)
+     background-color:rgb(165, 151, 180)
      border-bottom:bisque
      padding:50px;
 }
@@ -36,7 +36,7 @@ header {
      margin: 10px;
      padding: 3px;
      border: 0.5rem solid #rgb(153, 63, 155);
-     border:- radius:24px;
+     border:- radius:24px;primeiroano2023
 }
 
 .lista{
